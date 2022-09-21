@@ -1,0 +1,10 @@
+weight=int(input("Enter your weight : "))
+kgorpound=input("for kg type K or for pounds type P :")
+if kgorpound.upper()=="K":
+    convert=weight/.45
+    print(f"your are :{convert} kilos")
+if kgorpound.upper()=="P":
+    convert=weight*.45
+    print(f"you are :{convert} pounds")
+else:
+    print("typing error")
