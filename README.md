@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MamunUrRashidAIUB
 - 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...all the pogramming language
+- 🌱 I’m currently learning ...all the pogramming language, data anylysis and flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...my gmail is= md.mamun.ur.rashid.cse@gmail.com
 - 
