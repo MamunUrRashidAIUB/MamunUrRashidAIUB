@@ -5,6 +5,7 @@
   wanna know more about me? http://rashidontheway.rf.gd/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MamunUrRashidAIUB)](https://github.com/MamunUrRashidAIUB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamunUrRashidAIUB)](https://github.com/MamunUrRashidAIUB/github-readme-stats)
 
 <!---
 MamunUrRashidAIUB/MamunUrRashidAIUB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
