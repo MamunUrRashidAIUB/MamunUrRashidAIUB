@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Md Mamun ur rashid
-- 👀 I’m interested in web development flutter etc...
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning all the pogramming language, data anylysis and flutter
 - 📫 How to reach me my gmail is= md.mamun.ur.rashid.cse@gmail.com
   wanna know more about me? http://rashidontheway.rf.gd/
