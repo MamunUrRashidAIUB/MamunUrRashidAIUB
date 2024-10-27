@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Mamun ur rashid
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning all the pogramming language, data anylysis and flutter
+- 🌱 I’m currently learning React, node.js, Python , mongoDB
 - 📫 How to reach me my gmail is= md.mamun.ur.rashid.cse@gmail.com
   wanna know more about me? https://mamunurrashid.netlify.app/
 
