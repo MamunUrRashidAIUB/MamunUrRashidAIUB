@@ -4,7 +4,7 @@
 - 📫 How to reach me my gmail is= md.mamun.ur.rashid.cse@gmail.com
   wanna know more about me? https://mamunurrashid.netlify.app/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MamunUrRashidAIUB&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
