@@ -13,6 +13,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MamunUrRashidAIUB)](https://github.com/ryo-ma/github-profile-trophy)
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="63" height="63" /></div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MamunUrRashidAIUB&theme=gruvbox" alt="GitHub Streak" /></a>
 
 
 
