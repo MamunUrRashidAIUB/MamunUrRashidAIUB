@@ -28,13 +28,16 @@ I’m a **Full-Stack Developer** from **Bangladesh** passionate about building d
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/axios-icon.svg" alt="Axios" width="50" height="50" />
 </div>  
 
 ---
 
 ## 🌟 Highlights  
 - 🌐 Experienced in creating responsive websites using **React**, **CSS**, and **JavaScript**.  
-- 🖥️ Skilled in backend technologies like **Node.js** and **MySQL** for database management.  
+- 🖥️ Skilled in backend technologies like **Node.js**, **MySQL**, and **MongoDB** for database management.  
 - 📊 Passionate about problem-solving and continuously enhancing my coding skills.  
 - 📘 Enjoy exploring and experimenting with **new technologies**.  
 
