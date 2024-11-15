@@ -17,6 +17,7 @@ I’m a **Full-Stack Developer** from **Bangladesh** passionate about building d
 ## 🏆 Achievements & Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamunUrRashidAIUB&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=MamunUrRashidAIUB&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6fb9045e-77d9-4c94-a131-7f6102ff4ad2/deploy-status)](https://app.netlify.com/sites/mamunurrashid/deploys)
 
 
 
