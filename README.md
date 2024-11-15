@@ -1,23 +1,44 @@
-- 👋 Hi, I’m Md Mamun ur rashid
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React, node.js, Python , mongoDB
-- 📫 How to reach me my gmail is= md.mamun.ur.rashid.cse@gmail.com
- - wanna know more about me? https://mamunurrashid.netlify.app/
- - 
+# 👋 Hi, I’m **Md Mamun Ur Rashid**  
 
+🌟 **Welcome to my GitHub!** 🌟  
+I’m a **Full-Stack Developer** from **Bangladesh** passionate about building dynamic, user-friendly web applications. Here's a little about me:  
 
+---
 
+## 🧑‍💻 About Me  
+- 🔭 I’m currently working on exciting **React** and **Node.js** projects.  
+- 🌱 I’m expanding my skills by learning **Python**, **MongoDB**, and backend development.  
+- 👀 I’m deeply interested in **web development**, creating intuitive user experiences, and exploring new technologies.  
+- 📫 **Reach me** at: [md.mamun.ur.rashid.cse@gmail.com](mailto:md.mamun.ur.rashid.cse@gmail.com).  
+- 🌐 Wanna know more about me? [**Visit my portfolio**](https://mamunurrashid.netlify.app).  
 
+---
 
+## 🏆 Achievements & Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamunUrRashidAIUB&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=MamunUrRashidAIUB&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=MamunUrRashidAIUB)](https://github.com/ryo-ma/github-profile-trophy)
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="63" height="63" /></div>
+---
 
+## 🚀 Tech Stack  
+<div style="display: flex; align-items: center;">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+</div>  
 
+---
 
+## 🌟 Highlights  
+- 🌐 Experienced in creating responsive websites using **React**, **CSS**, and **JavaScript**.  
+- 🖥️ Skilled in backend technologies like **Node.js** and **MySQL** for database management.  
+- 📊 Passionate about problem-solving and continuously enhancing my coding skills.  
+- 📘 Enjoy exploring and experimenting with **new technologies**.  
 
-<!---
-MamunUrRashidAIUB/MamunUrRashidAIUB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📫 Let's Connect!  
+Feel free
