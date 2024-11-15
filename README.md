@@ -49,7 +49,7 @@ Feel free to reach out or connect with me:
 - 📧 **Email**: [md.mamun.ur.rashid.cse@gmail.com](mailto:md.mamun.ur.rashid.cse@gmail.com)  
 - 🌐 [**Portfolio**](https://mamunurrashid.netlify.app)  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/md-mamun-ur-rashid-7a95ab251)  
-- 🐦 **Twitter**: [@Mamun_Dev](https://twitter.com/Mamun_Dev)  
+
 
 ---
 
