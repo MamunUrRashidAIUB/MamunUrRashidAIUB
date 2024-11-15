@@ -41,4 +41,12 @@ I’m a **Full-Stack Developer** from **Bangladesh** passionate about building d
 ---
 
 ## 📫 Let's Connect!  
-Feel free
+Feel free to reach out or connect with me:  
+- 📧 **Email**: [md.mamun.ur.rashid.cse@gmail.com](mailto:md.mamun.ur.rashid.cse@gmail.com)  
+- 🌐 [**Portfolio**](https://mamunurrashid.netlify.app)  
+- 💼 [**LinkedIn**](https://linkedin.com/in/mamunurrashid)  
+- 🐦 **Twitter**: [@Mamun_Dev](https://twitter.com/Mamun_Dev)  
+
+---
+
+I’m always open to collaboration and learning. Let's create amazing things together! 🚀  
