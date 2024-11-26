@@ -16,7 +16,7 @@ I’m a **Full-Stack Developer** from **Bangladesh** passionate about building d
 ---
 
 ## 🏆 Achievements & Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamunUrRashidAIUB&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MamunUrRashidAIUB&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MamunUrRashidAIUB&theme=dark)](https://git.io/streak-stats)
 
