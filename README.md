@@ -8,6 +8,7 @@ I’m a **Full-Stack Developer** from **Bangladesh** passionate about building d
 
 
 ## 🧑‍💻 About Me  
+
 - 🔭 I’m currently working on exciting **React** and **Node.js** projects.  
 - 🌱 I’m expanding my skills by learning **Python**, **MongoDB**, and backend development.  
 - 👀 I’m deeply interested in **web development**, creating intuitive user experiences, and exploring new technologies.  
